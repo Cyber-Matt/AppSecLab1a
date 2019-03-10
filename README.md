@@ -23,6 +23,6 @@ Run
 ---
 Command line:
 
-python <file_to_resize> <resized_file_output> <new_square_size>
+`python imagechange.py <file_to_resize> <resized_file_output> <new_square_size>`
 
   
